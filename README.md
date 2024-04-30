@@ -1,1 +1,5 @@
-# Chicago-Racializing-Roads-Study
+# Chicago-Racializing-Roads-Study  
+
+This coding work estimate the racial composition of road users, leveraging data from their respective Census block group. The racial composition data encompasses approximately 46 million trips in the Chicago metropolitan region. The research focuses on the relationship between camera tickets and racial composition of drivers vs. police stops for traffic violations and the racial composition in these locations. The violation rate measured by cameras better matches the racial composition of road users on the links with cameras than do stops by police officers.   
+
+However, Black drivers exhibit a significantly higher likelihood of being ticketed by automated speed cameras and of being stopped for traffic violations on roads, irrespective of the proportion of White drivers present. The research observes that this correlation attenuates as the proportion of White drivers on the road increases. This study therefore presents an important contribution to understanding racial disparities in traffic violation stops, with implications for policy interventions and social justice reforms.
